@@ -90,5 +90,4 @@ npm start
 The React app will start at http://localhost:3000
 
 
-📸 Screenshots
-![Student Dashboard]("C:\Users\harsh\OneDrive\Pictures\Screenshots\dashboard.png.png")
+
